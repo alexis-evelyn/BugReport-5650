@@ -1,0 +1,4 @@
+name: Bugreport5650
+version: ${project.version}
+main: me.alexisevelyn.bugreport5650.Bugreport5650
+api-version: 1.13
